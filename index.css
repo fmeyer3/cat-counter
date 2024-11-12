@@ -9,23 +9,23 @@ body {
 }
 
 h1 {
+    font-size: 6rem;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 h2 {
-    font-size: 5rem;
+    font-size: 12rem;
     margin-top: 0;
     margin-bottom: 20px;
 }
 
 button {
-    font-size: 1.5rem;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-bottom: 20px;
+    width: 80%;
+    font-size: 4rem;
+    padding: 10px 30px;
     font-weight: bold;
-    width: 200px;
-    margin: 10px;
     border-radius: 5px;
 }
 
@@ -48,5 +48,5 @@ button {
 }
 
 p {
-    font-size: 2rem;
+    font-size: 4rem;
 }
