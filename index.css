@@ -1,6 +1,7 @@
 body {
     background: url("https://placecats.com/millie/600/300") rgba(16, 25, 64, 0.6);
     background-size: cover;
+    background-position: center;
     font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
@@ -13,16 +14,17 @@ h1 {
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 5rem;
     margin-top: 0;
     margin-bottom: 20px;
 }
 
 button {
+    font-size: 1.5rem;
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: bold;
-    width: 150px;
+    width: 200px;
     margin: 10px;
     border-radius: 5px;
 }
@@ -43,4 +45,8 @@ button {
     margin: 20px auto;
     border-radius: 10px;
     
+}
+
+p {
+    font-size: 2rem;
 }
